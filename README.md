@@ -89,4 +89,6 @@ From the training run shown in the logs:
 
 -> Note: results can vary slightly depending on hardware and randomness, even with seeds set.
 
+![Plot](assets/plot.png)
+
 ---
